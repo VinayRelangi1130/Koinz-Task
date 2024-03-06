@@ -1,0 +1,75 @@
+.container1 {
+    height: 776px;
+    width: 881px;
+    margin: 24px;
+    background-color: white;
+}
+
+.con2{
+    height: 29px;
+    width: 844px;
+}
+
+.heading {
+    height: 29px;
+    width: 64px;
+    color: #0f1629;
+    font-size: 18px;
+}
+
+.para {
+    height: 52px;
+    width: 830px;
+    color: #3e424a;
+    font-size: 14px;
+}
+
+.person1 {
+    height: 177.51px;
+    width: 821px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #E8F4FD;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    
+}
+
+.c1 {
+    height: 155.12px;
+    width: 128.61px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 11.19px;
+    
+}
+
+.img1 {
+    height: 96.35px;
+    width: 104.81px;
+    border-radius: 6px;
+}
+
+.name {
+    height: 18px;
+    width: 82px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.designation {
+    height: 15px;
+    width: 98px;
+    font-size: 12px;
+    font-weight: 400;
+    color: grey;
+}
+
+.cp {
+    height: 110px;
+    width: 646px;
+    font-size: 12px;
+}

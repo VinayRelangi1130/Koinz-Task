@@ -1,0 +1,108 @@
+.container1 {
+    height: 995px;
+    width: 881px;
+    margin: 24px;
+    background-color: white;
+}
+
+.heading {
+    height: 29px;
+    width: 158px;
+    font-size: 24px;
+}
+
+.heading2 {
+    height: 22px;
+    width: 143px;
+    font-size: 18px;
+}
+
+.para1 {
+    height: 78px;
+    width: 838px;
+    font-size: 16px;
+}
+
+.container2 {
+    height: 396px;
+    width: 830px;
+}
+
+.heading3 {
+    height: 22px;
+    width: 239px;
+    font-size: 18px;
+}
+
+.con3 {
+    height: 364px;
+    width: 830px;
+}
+
+.head {
+    height: 47px;
+    width: 464px;
+    font-size: 22px;
+}
+
+.img-con {
+    height: 151px;
+    width: 807px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.grad {
+    background: linear-gradient(to right, #79F1A4, #0E5CAD);
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    height: 151px;
+    width: 388px;
+    border-radius: 12px;
+}
+
+.market {
+    height: 120px;
+    width: 120px;
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.btn-con {
+    height: 104px;
+    width: 195px;
+}
+
+.calculate {
+    height: 56px;
+    width: 195px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn {
+    border: 0px;
+    height: 32px;
+    width: 132px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+.grad2 {
+    background: linear-gradient(to right, #FF9865, #EF3031);
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    height: 151px;
+    width: 388px;
+    border-radius: 12px;
+}
+
+.last-con {
+    height: 130px;
+    width: 830px;
+    font-size: 16px;
+}

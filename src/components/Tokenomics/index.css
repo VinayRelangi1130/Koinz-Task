@@ -1,0 +1,61 @@
+.container1 {
+    height: 549px;
+    width: 881px;
+    margin: 24px;
+    background-color: white;
+}
+
+.heading {
+    height: 29px;
+    width: 849px;
+    font-size: 24px;
+    padding-bottom: 24px;
+}
+
+.container2 {
+    height: 402px;
+    width: 833px;
+}
+
+.heading2 {
+    height: 36px;
+    width: 810px;
+    font-size: 20px;
+}
+.container3 {
+    height: 210px;
+    width: 810px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.circle {
+    height: 179px;
+    width: 179px;
+    padding-right: 24px;
+}
+
+.img-container {
+    height: 111px;
+    width: 216px;
+    font-size: 16px;
+}
+
+.circ {
+    height: 12px;
+    width: 12px;
+}
+
+.arrange {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.para {
+    height: 156px;
+    width: 833px;
+    font-size: 16px;
+}
